@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.registerdiv{
+    width: 90%;
+    height: 400px;
+    background-color: antiquewhite;
+    box-shadow:0 0 2px 2px darkgrey;
+    display: flex;
+    flex-direction: column;
+}
+.registerdiv .codediv, .agreementdiv{
+    display: flex;
+    flex-direction:row;
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navdiv{
+    width: 100%;
+    height: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.navdiv .signdiv{
+    width: 30%;
+    display: flex;
+    flex-direction:column;
+}
+.navdiv .maintitle{
+    width: 40%;
+}
+.navdiv .signdiv .title{
+    font-size: 24px;
+    font-weight: bolder;
+    color: darkblue;
+}
+.navdiv .signdiv .smalltitle{
+    font-size: 14px;
+}
+.navdiv .logAndregistdiv{
+    width: 30%;
+    margin-left: 700px;
+}

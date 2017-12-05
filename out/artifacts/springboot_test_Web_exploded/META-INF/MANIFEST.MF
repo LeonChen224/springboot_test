@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot_test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Leon.Chen1
+Implementation-Vendor-Id: com.connext
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_74
+Main-Class: ${start-class}
+
